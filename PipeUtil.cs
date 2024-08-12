@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.DB.Plumbing;
 using Autodesk.Revit.DB.Structure;
-using LiangChi.MepDesign.Revit;
-using LiangChi.MepDesign.WaterApplication.Model3.Factorys;
-using LiangChi.MepDesign.WaterApplication.Model3.Service.Ylps;
-using LiangChi.MepDesign.WaterApplication.PlanPlaces.Datas;
+using xxx.MepDesign.Revit;
+using xxx.MepDesign.WaterApplication.Model3.Factorys;
+using xxx.MepDesign.WaterApplication.Model3.Service.Ylps;
+using xxx.MepDesign.WaterApplication.PlanPlaces.Datas;
 
-namespace LiangChi.MepDesign.WaterApplication.Model3.Utils
+namespace xxx.MepDesign.WaterApplication.Model3.Utils
 {
     public class PipeUtil
     {
